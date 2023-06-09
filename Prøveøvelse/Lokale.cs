@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Prøveøvelse
 {
-    internal class Person
+    internal class Lokale
     {
+
     }
 }
